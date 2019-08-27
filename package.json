@@ -1,0 +1,22 @@
+{
+  "name": "ioscordova-push-plugin",
+  "version": "1.0.0",
+  "description": "Add push function of ios platform for ionic",
+  "cordova": {
+    "id": "ioscordova-push-plugin",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pysGitHub/iosCordovaPushPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "thomas pan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pysGitHub/iosCordovaPushPlugin/issues"
+  },
+  "homepage": "https://github.com/pysGitHub/iosCordovaPushPlugin#readme"
+}
